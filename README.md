@@ -10,7 +10,7 @@
 
 ``` shell
 $ git clone https://github.com/mizu-bai/2020-Southwest-MSC-Hackathon.git
-$ cd 2020-Southwest-MSC-Hackathon
+$ cd 2020-Southwest-MSC-Hackathon/XinLianXin
 $ yarn ios     # if you want to test this app in an iOS Simulator
 $ yarn android # if you want to test this app in an Android Simulator
 
